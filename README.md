@@ -1,5 +1,11 @@
 # HHVcub
-The virus causing Chicken pox, shingle, genital herpes, or virus-associated lymphoproliferative disease belongs to the same HHV family, however their targeted cells are different ranging from mucoepithelial to lymphocytes, the same case as their latency sites differ in types of cells of immune system, even particular age groups are infected by particular virus species.
+This is a subject in the conceptual stage.
 
-There are rare researches revealing the reasons for variation in clinical symptoms caused by HHVs. In this project, I would like to investigate such reasons from three perspectives:
-Variation among HHV family viral sequences; Human gene sequences coding proteins relevant to targeted cells; clinical electronic data from patients infected by this virus family.
+The viruses responsible for Chickenpox, Shingles, Genital Herpes, or Virus-associated Lymphoproliferative Disease belong to the same HHV (Human Herpesvirus) family. However, their targeted cells vary, ranging from mucoepithelial to lymphocytes. Similarly, their latency sites differ, involving different types of cells in the immune system. Specific age groups are also more susceptible to particular virus species.
+
+Despite belonging to the same HHV family, there is limited research explaining the variations in clinical symptoms caused by these viruses. This project aims to investigate these variations from three key perspectives:
+
+Variation of CUB among HHV family viral sequences.
+Variation of CUB for the marker genes of the targeted cells in human genome.
+Clinical electronic data from patients infected by this virus family.
+Pattern analysis among the feature spaces of HHV family, human geome and clinical data.
